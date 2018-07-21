@@ -1,3 +1,5 @@
+//Calculate number of dollar bills required for amount using highest denomination bills.
+
 #include <stdio.h>
 
 #define TWENTY 20

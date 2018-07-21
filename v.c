@@ -1,3 +1,5 @@
+//Output a check mark.
+
 #include <stdio.h>
 
 int main (void){

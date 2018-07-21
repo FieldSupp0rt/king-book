@@ -1,3 +1,5 @@
+//Calculate tax on an amount.
+
 #include <stdio.h>
 
 #define TAX_RATE 5
