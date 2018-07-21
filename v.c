@@ -1,4 +1,4 @@
-//Output a check mark.
+//Output a check-mark.
 
 #include <stdio.h>
 
