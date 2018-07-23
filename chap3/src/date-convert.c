@@ -1,3 +1,5 @@
+//Convert date from mm/dd/yyyy to yyyymmdd
+
 #include <stdio.h>
 
 int main (void) {
