@@ -1,4 +1,4 @@
-// Convert int to octal to 5 places padded. (not using arrays)
+// Convert int to octal to 5 places padded.
 
 #include <stdio.h>
 
